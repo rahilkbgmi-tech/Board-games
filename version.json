@@ -1,8 +1,8 @@
 {
   "versionCode": 24,
   "versionName": "2.4",
-  "apkUrl": "https://github.com/rahilkbgmi-tech/Board-games/releases/download/V2.3/BoardGame-2.3.apk",
-  "apkSha256": "0c3126375258da1a9d15b1a1733444fee37b89522d987c36f2f170ab91e63a14",
+  "apkUrl": "https://github.com/rahilkbgmi-tech/Board-games/releases/download/V2.4/BoardGame-2.4.apk",
+  "apkSha256": "1d8b4e5838886db2c82a5a08ca657cd4c1b70ec9f01adb0ade50976fd664834a",
   "mandatory": false,
-  "releaseNotes": "Bug fixes and improvements"
+  "releaseNotes": "Dots game fixed in online mode"
 }
