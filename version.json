@@ -1,8 +1,8 @@
 {
   "versionCode": 23,
   "versionName": "2.3",
-  "apkUrl": "https://github.com/rahilkbgmi-tech/Board-games/releases/download/V2.2/BoardGame.apk",
-  "apkSha256": "b4ecbdcbe56aa9d5bb4dbf7cf1712837d46ecd15b718351a2666268009c5554c",
+  "apkUrl": "https://github.com/rahilkbgmi-tech/Board-games/releases/download/V2.3/BoardGame-2.3.apk",
+  "apkSha256": "0c3126375258da1a9d15b1a1733444fee37b89522d987c36f2f170ab91e63a14",
   "mandatory": false,
   "releaseNotes": "Bug fixes and improvements"
 }
